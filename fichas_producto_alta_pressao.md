@@ -105,3 +105,22 @@ La tecnología mixta o "Air-Assisted Airless" de las pistolas MACH combina lo me
 - **Meta Title (60 caracteres):** Pistolas Mixtas (Air-Assisted Airless) MACH3 (Manual) y MACH5
 - **Meta Description (148 caracteres):** Pistolas mixtas MACH3 y MACH5. La tecnología Air-Assisted Airless para acabados de alta calidad con la velocidad del sistema Airless.
 - **Keywords (8):** pistola mixta, air assisted airless, pistola mach3, pistola mach5, acabado fino, pintura industrial, pistola para madera.
+### **1.001.003 - PISTOLAS DE ALTA PRESSÃO**
+| SKU | Descrição |
+|---|---|
+| AIR-TUBOS | Pistola AIRLESS TUBOS |
+| B-2000 | PISTOLA MANUAL AIRLESS MOD. B-2000 |
+| B-500 | PISTOLA MANUAL AIRLESS MOD. B-500 |
+| B-81 | PISTOLA MANUAL AIRLESS AUTOMÁTICA MOD. B-81 |
+| G61000 | PISTOLA MANUAL PRO-FOR EX G61000 |
+| MACH3 | PISTOLA MISTA MACH 3 TIP FIXO |
+| MACH3-A | PISTOLA MISTA MACH 3 TIP AUTOLIMPAVEL |
+| MACH5-K | PISTOLA AUTOMÁTICA MISTA MACH 5 TIP KR |
+| MINI-TUBOS | Pistola AIRLESS TUBOS MINI |
+| RST71 | PISTOLA AIRLESS PARA MASSA E ALTAS VISCOSIDADES MOD. RST7 |
+
+### Variaciones
+- **Modelo P. Tubos:**
+  - **Variantes:** Longitud de la lanza
+- **Modelo MACH:**
+  - **Modelos:** MACH3 (Manual) | MACH5 (Automática)

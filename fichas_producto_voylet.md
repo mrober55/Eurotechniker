@@ -222,3 +222,50 @@ Las series LS-20 y LS-30 de Voylet son herramientas de alta precisión para el p
 - **Meta Title (55 caracteres):** Pistolas de Retoque de Precisión Voylet LS-20 y LS-30
 - **Meta Description (146 caracteres):** Pistolas de retoque Voylet LS-20 y LS-30. La herramienta perfecta para el spot repair y trabajos de detalle con un control y acabado superior.
 - **Keywords (8):** pistola de retoque, mini pistola, voylet ls-20, voylet ls-30, spot repair, pistola de precision, difuminado.
+### **1.001.008 - PISTOLAS MARCA VOYLET**
+| SKU | Descrição |
+|---|---|
+| 4001-14P | PISTOLA PRESSAO CONV. MOD. 4001P 1.40 M |
+| 4001-14S | PISTOLA SUCCAO CONV. MOD. 4001S 1.40 MM. |
+| 4001-17P | PISTOLA PRESSAO CONV. MOD. 4001P 1.70 M |
+| 4001-17S | PISTOLA SUCCAO CONV. MOD. 4001S 1.70 MM. |
+| 4001-20P | PISTOLA SUCCAO CONV. MOD. 4001 PRESSÃO 2.00MM |
+| 4001-20S | PISTOLA SUCCAO CONV. MOD. 4001S 2.00 MM. |
+| 4001A-14P | PISTOLA PRESSAO CONV. MOD. 4001AP 1.40 M |
+| 4001A-17P | PISTOLA PRESSAO CONV. MOD. 4001AP 1.70 M |
+| 4001A-17S | PISTOLA SUCCAO CONV. MOD. 4001AS 1.70 MM |
+| 4001A-20S | PISTOLA SUCCAO CONV. MOD. 4001AS 2.00 MM |
+| AS-1001-14G | PISTOLA GRAV. HVLP AS-1001 1.40 MM. CAIXA |
+| AS-1001-14GM | PISTOLA GRAV. HVLP AS-1001 1.40 MM. MALA |
+| AS-1001-18G | PISTOLA GRAV. HVLP AS-1001 1.80 MM. CAIXA |
+| AS-1001-18GM | PISTOLA GRAV. HVLP AS-1001 1.80 MM. MALA |
+| AS-1001-20G | PISTOLA GRAV. HVLP AS-1001 2.00 MM. CAIXA |
+| FR-301 | PISTOLA GRAV. MOD. FR-301 |
+| H-2000-10G | PISTOLA GRAV. HVLP MOD. H-2000 1.00 MM. |
+| H-827-14G | PISTOLA GRAV. HVLP MOD. H-827G 1.40 MM. |
+| H-827-14GM | PISTOLA GRAV. HVLP MOD. H-827G 1.40 MM. NA MALA PLASTICO |
+| H-827-18G | PISTOLA GRAV. HVLP MOD. H-827G 1.80 MM. |
+| H-827-18GM | PISTOLA GRAV. HVLP MOD. H-827G 1.80 MM. NA MALA PLASTICO |
+| H-90G | PISTOLA GRAV. HVLP H-90 3.50 MM. |
+| H-90G-AL | PISTOLA GRAV. HVLP H-90 3.50 MM. CANECA ALUMÍNIO |
+| HK-827-14G | PISTOLA GRAV. HVLP MOD. HK-827G 1.40 MM. |
+| HK-827-17G | PISTOLA GRAV. HVLP MOD. HK-827G 1.70 MM. |
+| HK-827-20G | PISTOLA GRAV. HVLP MOD. HK-827G 2.00 MM. |
+| S-990-15G | PISTOLA GRAV. CONV. MOD. S-990G 1.50 MM. |
+| S-990-15S | PISTOLA SUCCAO CONV. MOD. S-990S 1.50 MM |
+| S-990-18G | PISTOLA GRAV. CONV. MOD. S-990G 1.80 MM. |
+| S-990-18S | PISTOLA SUCCAO CONV. MOD. S-990S 1.80 MM |
+
+### Variaciones
+- **Modelo 4001 Series:**
+  - **Alimentación:** Presión (P/AP) | Succión (S/AS)
+  - **Boquillas:** Varias
+- **Modelo AS-1001G:**
+  - **Boquillas:** 1.4mm | 1.8mm
+  - **Extra:** Con maletín | Sin maletín
+- **Modelo H-827G:**
+  - **Boquillas:** 1.4mm | 1.7mm | 2.0mm
+- **Modelo LS-20/LS-30:**
+  - **Boquillas:** 1.3mm | 1.7mm
+- **Modelo S-990G:**
+  - **Boquillas:** 1.5mm | 1.8mm

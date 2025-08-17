@@ -380,3 +380,64 @@ La Kaizentech W3A-10 es una pistola de precisión para aplicaciones industriales
 - **Meta Title (56 caracteres):** Pistola Fina Kaizentech W3A-10 para Agentes Desmoldantes
 - **Meta Description (143 caracteres):** Pistola de pulverización fina Kaizentech W3A-10. La solución profesional para aplicar agentes desmoldantes de forma controlada y uniforme.
 - **Keywords (8):** pistola para desmoldante, kaizentech w3a-10, pistola fine spray, moldeo por inyeccion, desmoldeante, pintura industrial.
+### **1.001.009 - PISTOLAS MARCA KAIZENTECH**
+| SKU | Descrição |
+|---|---|
+| 2200-14G | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 |
+| 2200-14GN | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 |
+| 2200-18GN | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 NOVA |
+| 2200-20GN | PISTOLA GRAV. 2.00MM KAIZEN TECH HVLP MOD. 2200 NOVA |
+| 400-12P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P |
+| 400-14P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P 1.40 MM. |
+| 400-18P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P 1.80 MM. |
+| 400-HV-14G | HVLP MOD. 400HV GRAV. 1.40 MM. |
+| 400-HV-18G | HVLP MOD. 400HV GRAV. 1.80 MM |
+| 400-LV-18S | LVLP MOD. 400LV SUC. 1.80 MM. |
+| 5000-10P | PISTOLA DE PRESSÃO 1.0MM LINHA KAIZENTEC |
+| 5000-12P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.20 MM. |
+| 5000-14P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.40 MM. |
+| 5000-14S | PISTOLA KAIZEN TECH SUCÇÃO MOD 5000S 1.40 MM |
+| 5000-18P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.80 MM. |
+| 5000-18S | PISTOLA SUCÇÃO EXP. MOD. 5000S 1.80 MM. |
+| 5000-20P | PISTOLA KAIZEN TECH PRESSÃO MOD 5000P 2.00MM |
+| 5000-20P-CT | PISTOLA KAIZEN TECH PRESSÃO MOD 5000P 2.00MM KIT ABRASIVOS |
+| 5000-20S | PISTOLA KAIZEN TECH SUCÇÃO MOD 5000S 2.00MM |
+| 6000-10G | PISTOLA HIGH TEC MOD. 6000G 1.00 MM. |
+| 6000-12G | PISTOLA HIGH TEC MOD. 6000G 1.20 MM. |
+| 6000-13G | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. |
+| 6000-13G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. BLACK |
+| 6000-13G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. FAST |
+| 6000-14G | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. |
+| 6000-14G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. BLACK |
+| 6000-14G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. FAST |
+| 6000-18G | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. |
+| 6000-18G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. BLACK |
+| 6000-18G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. FAST |
+| 6000-20G | PISTOLA HIGH TEC MOD. 6000G 2.00 MM. |
+| 6000-20G-BLACK | PISTOLA HIGH TEC MOD. 6000G 2.00 MM. BLACK |
+| 6000L-14G | PISTOLA HVLP MOD. 6000L 1.40 MM. CAPA LV4 HVLP |
+| KT-101-13G | PISTOLA GRAVIDADE KAIZEN TECH HVLP MOD.KT-101G |
+| KT-50-10G | PISTOLA RETOQUE KT-50G 1.00MM. |
+| W3A-10 | PISTOLA FINE SPRAY 1.00 MM. PARA DESMOLDANTE |
+
+### Variaciones
+- **Modelo 2200:**
+  - **Boquillas:** 1.4mm | 1.8mm | 2.0mm
+- **Modelo 400 Series:**
+  - **Alimentación:** Presión (400P) | Gravedad (400HV) | Succión (400LV)
+- **Modelo 5000P:**
+  - **Boquillas:** 1.0mm | 1.2mm | 1.8mm | 2.0mm
+- **Modelo 5000S:**
+  - **Boquillas:** 1.8mm | 2.0mm
+- **Modelo 6000G:**
+  - **Boquillas:** 1.4mm | 1.6mm | 1.8mm | 2.5mm
+  - **Versiones:** Standard | Black | Fast
+- **Modelo 6000L-G:**
+  - **Boquillas:** 1.4mm | 1.6mm | 1.8mm | 2.0mm
+- **Modelo A-100:**
+  - **Boquillas:** 0.8mm | 1.0mm | 1.5mm
+- **Modelo KT-101:**
+  - **Alimentación:** Gravedad | Succión | Presión
+  - **Boquillas:** Varias
+- **Modelo W-77:**
+  - **Alimentación:** Presión | Succión

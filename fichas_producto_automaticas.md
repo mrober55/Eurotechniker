@@ -32,3 +32,23 @@ Todas las pistolas de la gama cuentan con activación neumática para un ciclado
 - **Meta Title (58 caracteres):** Pistolas Automáticas Industriales HWA, KHA, KTR | Robóticas
 - **Meta Description (147 caracteres):** Gama completa de pistolas automáticas para robots y líneas de producción. Modelos estándar (HWA/KHA) y mini (KTR) para cualquier necesidad.
 - **Keywords (9):** pistola automatica, pistola para robot, hwa-200, kha-200, ktr-3000, pintura automatizada, linea de produccion, pintura industrial.
+### **1.001.007 - PISTOLAS AUTOMATICAS**
+| SKU | Descrição |
+|---|---|
+| A-100-102P | PISTOLA AUTOMATICA KAIZEN TECH MOD A-100 |
+| A-100-152P | PISTOLA AUTOMATICA KAIZEN TECH MOD. A-100 |
+| HWA-101-10P | PISTOLA AUTO HWA-101 1.00 MM. |
+| HWA-110-10P | PISTOLA AUTOMÁTICA COM MANIFOLD |
+| HWA-200-12P | PISTOLA AUTO HWA-200 1.20 MM. |
+| HWA-200-18P | PISTOLA AUTO HWA-200 1.80 MM. |
+| HWA-210-12P | PISTOLA AUTO HWA-210 C/MANIFOLD |
+| HWA-600 | PISTOLA AUTOMÁTICA SISTEMA CIRCULATING |
+| KHA-200-10P | PISTOLA AUTOMATICA 1.0MM. MOD. KHA-200 |
+| KHA-200-12P | PISTOLA AUTOMATICA 1.20 MM. MOD. KHA-200 |
+| KHA-200-15P | PISTOLA AUTOMATICA 1.50 MM. MOD. KHA-200 |
+| KHA-200-18P | PISTOLA AUTOMATICA 1.80 MM. MOD. KHA-200 |
+| KTR-3000-10P | MINI PISTOLA AUTOMATICA 1.00 MM. MOD. KTR-3000 |
+
+### Variaciones
+- **Serie HWA/KHA/KTR:**
+  - **Configuraciones:** Múltiples dentro de cada serie
