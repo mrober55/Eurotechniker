@@ -1,0 +1,224 @@
+# Resumen de Inventario de Pistolas
+
+Este documento contiene un resumen de los modelos de pistolas por marca y el listado completo de referencias (SKU) proporcionado.
+
+---
+
+## 1. Resumen de Modelos y Variantes por Marca
+
+### **Marca: Kaizentech (12 modelos)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **2200** | 3 | Boquillas: 1.4, 1.8, 2.0 mm |
+| **400 Series** | 3 | Tipos: Presión (400P), Gravedad (400HV), Succión (400LV) |
+| **5000P** | 4 | Boquillas: 1.0, 1.2, 1.8, 2.0 mm |
+| **5000S** | 2 | Boquillas: 1.8, 2.0 mm |
+| **6000G** | 4+ | Boquillas: 1.4, 1.6, 1.8, 2.5 mm (y versiones Black/Fast) |
+| **6000L-G** | 4 | Boquillas: 1.4, 1.6, 1.8, 2.0 mm |
+| **A-100** | 3 | Boquillas: 0.8, 1.0, 1.5 mm |
+| **B-500** | 1 | Modelo Airless (las variantes dependen de la boquilla) |
+| **KT-101** | Múltiples | Tipos: Gravedad, Succión, Presión con varias boquillas |
+| **KT-50G** | 1 | Boquilla: 1.0 mm |
+| **W-77** | 2 | Tipos: Presión y Succión |
+| **W3A-10** | 1 | Pistola especializada para desmoldantes |
+
+### **Marca: Voylet (10+ modelos)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **4001 Series**| 4+ | Tipos: Presión (P/AP) y Succión (S/AS) con varias boquillas |
+| **AS-1001G** | 2 | Boquillas: 1.4, 1.8 mm (y opción con/sin maletín) |
+| **FR-301** | 1 | Múltiples boquillas implícitas para fondos (2.0-2.5mm) |
+| **H-90G** | 1 | Boquilla de gran paso: 3.5 mm |
+| **H-2000G** | 1 | Mini pistola de retoques (1.0 mm) |
+| **H-827G** | 3 | Boquillas: 1.4, 1.7, 2.0 mm |
+| **LS-20/LS-30**| 2 modelos | Cada uno con 2 variantes de boquilla (1.3, 1.7 mm) |
+| **N-125** | 1 | Mini pistola de retoques (1.0 mm) |
+| **S-990G** | 2 | Boquillas: 1.5, 1.8 mm |
+
+### **Marca: Sagola (4 modelos)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **4600 Xtreme**| Múltiples | Versiones de boquilla (AQUA, CLEAR, HVLP) y Digital/Estándar |
+| **3300 GTO** | Múltiples | Versiones de boquilla (TECH, HVLP, EVO, EPA) y alimentación |
+| **Mini Xtreme**| 2 | Boquillas: 1.0 mm (Aqua), 1.2 mm (EPA) |
+| **X4100** | 3 | Tipos: Gravedad, Succión, Presión |
+
+### **Marca: Avalon (6 modelos)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **CP-10** | 1 | Succión, boquilla de 1.8 mm |
+| **FR-301** | 1 | Pistola para fondos |
+| **H-2000/H-827**| 2 modelos | H-2000 (1 boquilla), H-827 (2 boquillas) |
+| **MZ-472** | 2 | Tipos: Gravedad (C) y Succión (B) |
+| **S-990** | 2 | Tipos: Gravedad (G) y Succión (S) |
+| **W-101/W-71**| 2 modelos | Pistolas de presión |
+
+### **Categoría: Industriales Alta Presión (4 modelos)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **P. Tubos** | 1 | Las variantes dependen de la longitud de la lanza |
+| **B-2000** | 1 | Pistola Airless manual |
+| **B-81** | 1 | Pistola Airless automática |
+| **MACH** | 2 | Modelos: MACH3 (Manual) y MACH5 (Automática) |
+
+### **Categoría: Pistolas Automáticas (Genéricas) (1 modelo)**
+
+| Modelo | Nº de Variantes Principales | Notas de las Variantes |
+|---|---|---|
+| **HWA/KHA/KTR**| 3 series | Múltiples configuraciones dentro de cada serie |
+
+---
+
+## 2. Listado Completo de Referencias (SKU)
+
+### **1,001,012 - PISTOLAS MARCA SAGOLA**
+| SKU | Descrição |
+|---|---|
+| 10111802 | PISTOLA MINIXTREME G 1.00MM. [MINIAQUA] |
+| 10111808 | PISTOLA DE PINTURA MINI XTREME G 1.20 [MINIEPA] |
+| 10120910 | PISTOLA 3300 GTO SUCÇÃO 1.40[EPA] |
+| 10120912 | PISTOLA 3300 GTO SUCÇÃO 1.80[EPA] |
+| 10121003 | PISTOLA X4100 SERIES SUCÇÃO 1.80 [96] |
+| 10121007 | PISTOLA X4100 SERIES SUCÇÃO 1.60S[XT01] |
+| 10141523 | PISTOLA 3300 GTO BLACK RACING 1.3 [TECH] |
+| 10141552 | PISTOLA GRAVEDAD 3300 GTO CAR 1.40[TECH] |
+| 10141559 | PISTOLA GRAVEDAD 3300 GTO 1.30 [EVO] |
+| 10141560 | PISTOLA GRAVEDAD 3300 GTO 1.40 [EVO] |
+| 10142001 | PISTOLA DE PINTURA X4100SERIES GRAVIDADE 1.40[96] |
+| 10142003 | PISTOLA DE PINTURA X4100SERIES GRAVIDADE 1.80[96] PRIMERS |
+| 10142004 | PISTOLA DE PINTURA X4100SERIES GRAVIDADE 1.30[XT01] |
+| 10142202 | PISTOLA 4600 1.30 [DVR TITANIA] |
+| 10142207 | PISTOLA 4600 1.30XL [DVR TITANIA] |
+| 10142218 | PISTOLA 4600 1.20 [DVR CLEAR] |
+| 10142223 | PISTOLA 4600 DIGITAL 1.30 [DVR AQUA] |
+| 10152215 | PISTOLA 3300 GTO PRESION 1.20[EPA] |
+| 10152402 | PISTOLA DE PINTURA X4100 SERIES PRESION 1.20 [765] |
+| 10152403 | PISTOLA DE PINTURA X4100 SERIES PRESION 1.40 [765] |
+| 10152405 | PISTOLA X4100 SERIES PRESION 1.20 [777] |
+| 10152408 | PISTOLA X4100 PRESION 1.00 [XT01B] EPA |
+
+### **1,001,013 - PISTOLAS MARCA AVALON**
+| SKU | Descrição |
+|---|---|
+| CP-10-18S-AV | PISTOLA SUCÇÃO CONV. MOD. CP-10 1.80 MM. AVALON |
+| FR-301-AV | PISTOLA GRAV. MOD. FR-301 AVALON |
+| H-2000-10G-AV | PISTOLA GRAV. HVLP MOD. H-2000 1.00 MM. AVALON |
+| H-827-14G-AV | PISTOLA GRAV. HVLP H-827 1.40 MM. AVALON |
+| H-827-17G-AV | PISTOLA GRAV. HVLP H-827 1.70 MM. AVALON |
+| MZ-472B-AV | PISTOLA AR DIRETO MOD. MZ-472B AVALON |
+| MZ-472C-AV | PISTOLA AR DIRETO MOD. MZ-472C AVALON |
+| S-990-15G-AV | PISTOLA GRAV. CONV. MOD. S-990G 1.50 MM. AVALON |
+| S-990-15S-AV | PISTOLA SUCÇÃO CONV. MOD. S-990S 1.50 MM. AVALON |
+| S-990-18G-AV | PISTOLA GRAV. CONV. MOD. S-990G 1.80 MM. AVALON |
+| W-101-13P-AV | PISTOLA PRESSÃO MOD. W-101 1.30 MM. AVALON |
+| W-71-13P-AV | PISTOLA PRESSÃO MOD. W-71 1.30 MM. AVALON |
+
+### **1.001.003 - PISTOLAS DE ALTA PRESSÃO**
+| SKU | Descrição |
+|---|---|
+| AIR-TUBOS | Pistola AIRLESS TUBOS |
+| B-2000 | PISTOLA MANUAL AIRLESS MOD. B-2000 |
+| B-500 | PISTOLA MANUAL AIRLESS MOD. B-500 |
+| B-81 | PISTOLA MANUAL AIRLESS AUTOMÁTICA MOD. B-81 |
+| G61000 | PISTOLA MANUAL PRO-FOR EX G61000 |
+| MACH3 | PISTOLA MISTA MACH 3 TIP FIXO |
+| MACH3-A | PISTOLA MISTA MACH 3 TIP AUTOLIMPAVEL |
+| MACH5-K | PISTOLA AUTOMÁTICA MISTA MACH 5 TIP KR |
+| MINI-TUBOS | Pistola AIRLESS TUBOS MINI |
+| RST71 | PISTOLA AIRLESS PARA MASSA E ALTAS VISCOSIDADES MOD. RST7 |
+
+### **1.001.007 - PISTOLAS AUTOMATICAS**
+| SKU | Descrição |
+|---|---|
+| A-100-102P | PISTOLA AUTOMATICA KAIZEN TECH MOD A-100 |
+| A-100-152P | PISTOLA AUTOMATICA KAIZEN TECH MOD. A-100 |
+| HWA-101-10P | PISTOLA AUTO HWA-101 1.00 MM. |
+| HWA-110-10P | PISTOLA AUTOMÁTICA COM MANIFOLD |
+| HWA-200-12P | PISTOLA AUTO HWA-200 1.20 MM. |
+| HWA-200-18P | PISTOLA AUTO HWA-200 1.80 MM. |
+| HWA-210-12P | PISTOLA AUTO HWA-210 C/MANIFOLD |
+| HWA-600 | PISTOLA AUTOMÁTICA SISTEMA CIRCULATING |
+| KHA-200-10P | PISTOLA AUTOMATICA 1.0MM. MOD. KHA-200 |
+| KHA-200-12P | PISTOLA AUTOMATICA 1.20 MM. MOD. KHA-200 |
+| KHA-200-15P | PISTOLA AUTOMATICA 1.50 MM. MOD. KHA-200 |
+| KHA-200-18P | PISTOLA AUTOMATICA 1.80 MM. MOD. KHA-200 |
+| KTR-3000-10P | MINI PISTOLA AUTOMATICA 1.00 MM. MOD. KTR-3000 |
+
+### **1.001.008 - PISTOLAS MARCA VOYLET**
+| SKU | Descrição |
+|---|---|
+| 4001-14P | PISTOLA PRESSAO CONV. MOD. 4001P 1.40 M |
+| 4001-14S | PISTOLA SUCCAO CONV. MOD. 4001S 1.40 MM. |
+| 4001-17P | PISTOLA PRESSAO CONV. MOD. 4001P 1.70 M |
+| 4001-17S | PISTOLA SUCCAO CONV. MOD. 4001S 1.70 MM. |
+| 4001-20P | PISTOLA SUCCAO CONV. MOD. 4001 PRESSÃO 2.00MM |
+| 4001-20S | PISTOLA SUCCAO CONV. MOD. 4001S 2.00 MM. |
+| 4001A-14P | PISTOLA PRESSAO CONV. MOD. 4001AP 1.40 M |
+| 4001A-17P | PISTOLA PRESSAO CONV. MOD. 4001AP 1.70 M |
+| 4001A-17S | PISTOLA SUCCAO CONV. MOD. 4001AS 1.70 MM |
+| 4001A-20S | PISTOLA SUCCAO CONV. MOD. 4001AS 2.00 MM |
+| AS-1001-14G | PISTOLA GRAV. HVLP AS-1001 1.40 MM. CAIXA |
+| AS-1001-14GM | PISTOLA GRAV. HVLP AS-1001 1.40 MM. MALA |
+| AS-1001-18G | PISTOLA GRAV. HVLP AS-1001 1.80 MM. CAIXA |
+| AS-1001-18GM | PISTOLA GRAV. HVLP AS-1001 1.80 MM. MALA |
+| AS-1001-20G | PISTOLA GRAV. HVLP AS-1001 2.00 MM. CAIXA |
+| FR-301 | PISTOLA GRAV. MOD. FR-301 |
+| H-2000-10G | PISTOLA GRAV. HVLP MOD. H-2000 1.00 MM. |
+| H-827-14G | PISTOLA GRAV. HVLP MOD. H-827G 1.40 MM. |
+| H-827-14GM | PISTOLA GRAV. HVLP MOD. H-827G 1.40 MM. NA MALA PLASTICO |
+| H-827-18G | PISTOLA GRAV. HVLP MOD. H-827G 1.80 MM. |
+| H-827-18GM | PISTOLA GRAV. HVLP MOD. H-827G 1.80 MM. NA MALA PLASTICO |
+| H-90G | PISTOLA GRAV. HVLP H-90 3.50 MM. |
+| H-90G-AL | PISTOLA GRAV. HVLP H-90 3.50 MM. CANECA ALUMÍNIO |
+| HK-827-14G | PISTOLA GRAV. HVLP MOD. HK-827G 1.40 MM. |
+| HK-827-17G | PISTOLA GRAV. HVLP MOD. HK-827G 1.70 MM. |
+| HK-827-20G | PISTOLA GRAV. HVLP MOD. HK-827G 2.00 MM. |
+| S-990-15G | PISTOLA GRAV. CONV. MOD. S-990G 1.50 MM. |
+| S-990-15S | PISTOLA SUCCAO CONV. MOD. S-990S 1.50 MM |
+| S-990-18G | PISTOLA GRAV. CONV. MOD. S-990G 1.80 MM. |
+| S-990-18S | PISTOLA SUCCAO CONV. MOD. S-990S 1.80 MM |
+
+### **1.001.009 - PISTOLAS MARCA KAIZENTECH**
+| SKU | Descrição |
+|---|---|
+| 2200-14G | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 |
+| 2200-14GN | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 |
+| 2200-18GN | PISTOLA GRAV. KAIZEN TECH HVLP MOD. 2200 NOVA |
+| 2200-20GN | PISTOLA GRAV. 2.00MM KAIZEN TECH HVLP MOD. 2200 NOVA |
+| 400-12P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P |
+| 400-14P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P 1.40 MM. |
+| 400-18P | PISTOLA PRESSAO KAIZEN-TECH MOD 400P 1.80 MM. |
+| 400-HV-14G | HVLP MOD. 400HV GRAV. 1.40 MM. |
+| 400-HV-18G | HVLP MOD. 400HV GRAV. 1.80 MM |
+| 400-LV-18S | LVLP MOD. 400LV SUC. 1.80 MM. |
+| 5000-10P | PISTOLA DE PRESSÃO 1.0MM LINHA KAIZENTEC |
+| 5000-12P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.20 MM. |
+| 5000-14P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.40 MM. |
+| 5000-14S | PISTOLA KAIZEN TECH SUCÇÃO MOD 5000S 1.40 MM |
+| 5000-18P | PISTOLA PRESSÃO EXP. MOD. 5000P 1.80 MM. |
+| 5000-18S | PISTOLA SUCÇÃO EXP. MOD. 5000S 1.80 MM. |
+| 5000-20P | PISTOLA KAIZEN TECH PRESSÃO MOD 5000P 2.00MM |
+| 5000-20P-CT | PISTOLA KAIZEN TECH PRESSÃO MOD 5000P 2.00MM KIT ABRASIVOS |
+| 5000-20S | PISTOLA KAIZEN TECH SUCÇÃO MOD 5000S 2.00MM |
+| 6000-10G | PISTOLA HIGH TEC MOD. 6000G 1.00 MM. |
+| 6000-12G | PISTOLA HIGH TEC MOD. 6000G 1.20 MM. |
+| 6000-13G | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. |
+| 6000-13G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. BLACK |
+| 6000-13G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.30 MM. FAST |
+| 6000-14G | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. |
+| 6000-14G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. BLACK |
+| 6000-14G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.40 MM. FAST |
+| 6000-18G | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. |
+| 6000-18G-BLACK | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. BLACK |
+| 6000-18G-FAST | PISTOLA HIGH TEC MOD. 6000G 1.80 MM. FAST |
+| 6000-20G | PISTOLA HIGH TEC MOD. 6000G 2.00 MM. |
+| 6000-20G-BLACK | PISTOLA HIGH TEC MOD. 6000G 2.00 MM. BLACK |
+| 6000L-14G | PISTOLA HVLP MOD. 6000L 1.40 MM. CAPA LV4 HVLP |
+| KT-101-13G | PISTOLA GRAVIDADE KAIZEN TECH HVLP MOD.KT-101G |
+| KT-50-10G | PISTOLA RETOQUE KT-50G 1.00MM. |
+| W3A-10 | PISTOLA FINE SPRAY 1.00 MM. PARA DESMOLDANTE |
