@@ -43,6 +43,13 @@ El modelo **H-2000** es una mini pistola de retoques, diseñada para la precisi�
 - **¿Qué significa HVLP?** Alto Volumen, Baja Presión. Es una tecnología que utiliza un mayor volumen de aire a una presión más baja para pulverizar la pintura, lo que resulta en menos niebla y más pintura sobre la pieza.
 - **¿Son difíciles de limpiar?** No, su diseño es sencillo y permite un desmontaje rápido para una limpieza correcta.
 
+### Imagens
+| Archivo | ALT sugerido |
+|---|---|
+| avalon-h827-hvlp-front-01.jpg | Pistola HVLP Avalon H-827 - vista frontal |
+| avalon-h2000-hvlp-front-02.jpg | Mini pistola HVLP Avalon H-2000 para retoques |
+| avalon-hvlp-kit-completo-03.jpg | Kit de pistolas Avalon H-827 y H-2000 con accesorios |
+
 ### SEO (pack)
 - **Slug:** `/productos/avalon-h827-h2000-pistolas-hvlp`
 - **Meta Title (≤60):** Pistolas HVLP Avalon H-827 (Universal) y H-2000 (Retoques)

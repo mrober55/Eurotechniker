@@ -44,6 +44,13 @@ Ambas pistolas son apreciadas por su durabilidad, su diseño ergonómico y su fa
 - **¿W-101 o W-71?** La W-101 es el estándar de la industria para un rendimiento general de alta calidad. La W-71 es preferible si necesita una pistola más pequeña y ligera para detalles o áreas confinadas.
 - **¿Son difíciles de limpiar?** La limpieza implica purgar las mangueras y limpiar la pistola internamente, lo cual es un proceso estándar en los sistemas de pintura por presión.
 
+### Imagens
+| Archivo | ALT sugerido |
+|---|---|
+| avalon-w101-pressure-front-01.jpg | Pistola de presión industrial Avalon W-101 |
+| avalon-w71-pressure-front-02.jpg | Pistola de presión compacta Avalon W-71 |
+| avalon-w-series-pressure-aplicacion-03.jpg | Pistolas Avalon W-101 y W-71 en entorno industrial |
+
 ### SEO (pack)
 - **Slug:** `/productos/avalon-w101-w71-pistolas-presion-industrial`
 - **Meta Title (≤60):** Pistolas de Presión Industriales Avalon W-101 y W-71

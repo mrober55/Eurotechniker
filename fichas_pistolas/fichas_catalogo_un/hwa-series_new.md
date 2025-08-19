@@ -45,6 +45,13 @@ El diseño del cuerpo permite un montaje sencillo en brazos robóticos, reciproc
 - **¿Son adecuadas para pinturas abrasivas?** Gracias a sus conductos de acero inoxidable, tienen buena resistencia, pero para pinturas muy abrasivas (con cargas cerámicas, etc.), se recomiendan modelos con componentes de carburo de tungsteno.
 - **¿Cuál es la diferencia entre un modelo con manifold y uno sin él?** El manifold es una base de conexión que agrupa todas las entradas de aire y fluido. Permite desacoplar y reemplazar la pistola de forma muy rápida, sin tener que desconectar cada manguera individualmente, lo cual es ideal para mantenimiento.
 
+### Imagens
+| Archivo | ALT sugerido |
+|---|---|
+| hwa-series-automatica-front-01.jpg | Pistola automática industrial serie HWA - vista frontal |
+| hwa-series-manifold-detalle-02.jpg | Detalle de la base manifold para conexión rápida en pistola HWA |
+| hwa-series-linea-produccion-03.jpg | Pistolas automáticas HWA instaladas en una línea de producción |
+
 ### SEO (pack)
 - **Slug:** `/productos/pistola-automatica-industrial-hwa-series`
 - **Meta Title (≤60):** Pistola Automática Industrial Serie HWA | Líneas de Producción

@@ -45,6 +45,13 @@ Disponible también en versión Digital con un manómetro de precisión integrad
 - **¿Es difícil de mantener?** No, su diseño sin juntas tóricas y con piezas de alta calidad facilita enormemente la limpieza y el mantenimiento.
 - **¿Qué significa la boquilla 1.3XL?** Es una boquilla que ofrece un flujo de producto ligeramente mayor que la 1.3 estándar, ideal para pintores que prefieren trabajar con mayor rapidez sin sacrificar el acabado.
 
+### Imagens
+| Archivo | ALT sugerido |
+|---|---|
+| sagola-4600-xtreme-dvr-titania-front-01.jpg | Pistola Sagola 4600 Xtreme con cabezal DVR TITANIA para barniz |
+| sagola-4600-xtreme-digital-detalle-02.jpg | Detalle del manómetro en la versión Digital de la Sagola 4600 Xtreme |
+| sagola-4600-xtreme-kit-maletin-03.jpg | Kit completo de la Sagola 4600 Xtreme con maletín y accesorios |
+
 ### SEO (pack)
 - **Slug:** `/productos/sagola-4600-xtreme-pistola-acabados-premium`
 - **Meta Title (≤60):** Pistola de Barniz Sagola 4600 Xtreme | Acabados Perfectos
