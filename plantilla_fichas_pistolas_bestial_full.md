@@ -183,3 +183,5 @@ ID,Tipo,SKU,GTIN, UPC, EAN o ISBN,Nombre,Publicado,¬øEst√° destacado?,Visib
 *(pegar aquí la ficha completa según sección 3, con pictogramas, accesorios y FAQs)*
 
 ### ▶ Bloque B — CHECKLIST de IMÁGENES
+
+### ▶ Bloque C — CSV
