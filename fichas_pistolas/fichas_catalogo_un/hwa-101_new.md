@@ -46,6 +46,13 @@ Es la solución ideal para empresas que buscan automatizar sus procesos de acaba
 - **¿Es difícil de instalar?** No, su diseño compacto y sus conexiones estándar de 1/4" facilitan su integración en cualquier sistema de pintura automatizado.
 - **¿Qué mantenimiento requiere?** Requiere ciclos de limpieza automáticos con disolvente después de cada turno de producción y una inspección periódica de los componentes de desgaste como la boquilla, la aguja y las empaquetaduras.
 
+### Imagens | Archivo | ALT sugerido
+| Archivo | ALT sugerido |
+|---|---|
+| hwa-101-front.jpg | Pistola automática HWA-101 vista frontal |
+| hwa-101-detalle.jpg | Detalle de la pistola automática HWA-101 |
+| hwa-101-kit.jpg | Kit y accesorios de la pistola HWA-101 |
+
 ### SEO (pack)
 - **Slug:** `/productos/pistola-automatica-hwa-101`
 - **Meta Title (≤60):** Pistola Automática Industrial HWA-101 | Acabados de Precisión

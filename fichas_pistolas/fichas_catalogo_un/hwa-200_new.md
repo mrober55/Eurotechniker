@@ -44,6 +44,13 @@ Con conductos de fluido en acero inoxidable, es compatible con una amplia gama d
 - **¿Puedo usarla para aplicar imprimaciones espesas?** Sí, con las boquillas de mayor diámetro (2.0 mm o 2.5 mm), es perfectamente capaz de aplicar aparejos y fondos de alta viscosidad.
 - **¿El mantenimiento es complejo?** No, su diseño está pensado para un mantenimiento rápido en líneas de producción, con fácil acceso a la aguja y a los conductos de fluido para su limpieza.
 
+### Imagens | Archivo | ALT sugerido
+| Archivo | ALT sugerido |
+|---|---|
+| hwa-200-front.jpg | Pistola automática HWA-200 vista frontal |
+| hwa-200-detalle.jpg | Detalle de la pistola automática HWA-200 |
+| hwa-200-kit.jpg | Kit y accesorios de la pistola HWA-200 |
+
 ### SEO (pack)
 - **Slug:** `/productos/pistola-automatica-hwa-200`
 - **Meta Title (≤60):** Pistola Automática de Gran Producción HWA-200 (LVLP)

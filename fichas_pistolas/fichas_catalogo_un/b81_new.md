@@ -42,6 +42,13 @@ Es la solución perfecta para la automatización de procesos de pintura en la in
 - **¿Cuál es la velocidad de ciclo máxima?** La velocidad de ciclo es muy alta y depende de la presión de aire y de la viscosidad del material, pero está diseñada para aplicaciones de alta velocidad en líneas de producción.
 - **¿Es difícil de integrar en una línea de producción existente?** No, su diseño compacto y su base de montaje estándar facilitan su integración en sistemas automatizados, ya sea en robots, reciprocadores o montajes fijos.
 
+### Imagens | Archivo | ALT sugerido
+| Archivo | ALT sugerido |
+|---|---|
+| b81-front.jpg | Pistola automática Airless B-81 vista frontal |
+| b81-detalle.jpg | Detalle de la pistola automática B-81 |
+| b81-kit.jpg | Kit y accesorios de la pistola B-81 |
+
 ### SEO (pack)
 - **Slug:** `/productos/pistola-automatica-airless-b81`
 - **Meta Title (≤60):** Pistola Automática Airless Industrial B-81 (500 bar)
