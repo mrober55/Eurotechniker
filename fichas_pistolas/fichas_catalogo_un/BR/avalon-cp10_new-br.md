@@ -44,6 +44,14 @@ Seu bico de 1.8 mm é ideal para a aplicação de esmaltes, lacas, vernizes e re
 - **Que compressor eu preciso?** Recomenda-se um compressor com um tanque de pelo menos 50 litros e vazão de ar de 250 L/min ou superior.
 - **É difícil de limpar?** Por ser uma pistola de sucção, é necessário limpar o reservatório e o tubo de sucção, além dos condutos internos da pistola. Seu design simples facilita esse processo.
 
+
+### Imagens | Archivo | ALT sugerido
+| --- | --- |
+| avalon-cp10-front.jpg | Pistola Avalon CP‑10 vista frontal |
+| avalon-cp10-detalle.jpg | Detalle de la boquilla de la Avalon CP‑10 |
+| avalon-cp10-kit.jpg | Componentes y accesorios de la Avalon CP‑10 |
+
+
 ### SEO (pack)
 - **Slug:** `/produtos/avalon-cp10-pistola-succao-convencional`
 - **Meta Title (≤60):** Pistola de Sucção Avalon CP-10 | 1 Litro | Pintura Geral
